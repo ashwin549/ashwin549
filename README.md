@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ashwin549
+Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+- I’m @ashwin549
+- I'm a third-year student at Manipal Institute of Technology, Manipal studying Computer and Communications Engineering.
 - 👀 I’m interested in programming!
 
 <!---
