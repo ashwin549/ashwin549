@@ -26,6 +26,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDb" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
 </p>
+
+### Socials
+<p align="left"> <a href="https://www.github.com/ashwin549" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
+<a href="https://www.linkedin.com/in/ashwin-shetty-b64598292" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
 ### Stats
 <p align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=ashwin549&show_icons=true&theme=radical" alt="Readme Image" />
