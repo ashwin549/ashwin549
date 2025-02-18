@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 ### Stats
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=ashwin549show_icons=true&theme=radical" alt="Readme Image" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwin549&show_icons=true&theme=radical" alt="Readme Image" />
 </p>
